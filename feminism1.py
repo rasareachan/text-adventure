@@ -2,6 +2,7 @@ name = input("Insert strong, independent name (aka your name bc you're a strong,
 
 print("Welcome " + name + "! This your life.\nYour mom wants you to be a doctor, but you've always wanted to be an engineer.\n")
 q1 = input("Do you a: 'listen to your mom' or b: 'pursue your dreams'?\n")
+print("Please only press 'a' or 'b'!")
 
 # if choose to listen to mom
 if q1 == "a":
